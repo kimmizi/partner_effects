@@ -1,12 +1,8 @@
 # A Comparative Analysis of Machine Learning Algorithms for Predicting Partner Effects in Initial Romantic Attraction
 
----
 
 ## Machine Learning for Predicting Partner Effects
 As my bachelor thesis, I replicated and complemented prior findings of partner effects in initial romantic attraction with cross-validated machine learning models (lasso regression and Random Forest) trained on personality traits and actual behavior. In addition, I identified meaningful predictors associated with a person’s attractiveness. 
-
-
----
 
 
 ## Abstract
@@ -23,9 +19,6 @@ not significantly differ in their performance. Consistent predictors of both mod
 physical attractiveness, mate value, sociosexuality, promotion (regulatory focus), general flirting, and
 agentic flirting. The results of this study are relevant for understanding interpersonal perception in dating
 contexts.
-
-
----
 
 
 ## Feature Importance
