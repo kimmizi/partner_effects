@@ -1,5 +1,13 @@
-# partner_effects
+# A Comparative Analysis of Machine Learning Algorithms for Predicting Partner Effects in Initial Romantic Attraction
+
+---
+
+## Machine Learning for Predicting Partner Effects
 As my bachelor thesis, I replicated and complemented prior findings of partner effects in initial romantic attraction with cross-validated machine learning models (lasso regression and Random Forest) trained on personality traits and actual behavior. In addition, I identified meaningful predictors associated with a person’s attractiveness. 
+
+
+---
+
 
 ## Abstract
 Why are some people perceived as more desirable than others? The overall goal of this study is
@@ -16,5 +24,19 @@ physical attractiveness, mate value, sociosexuality, promotion (regulatory focus
 agentic flirting. The results of this study are relevant for understanding interpersonal perception in dating
 contexts.
 
+
+---
+
+
 ## Feature Importance
+
+### Random Forest
+<p align="center">
+  <img src="plots/RF.png" height="500">
+</p>
+
+### Lasso Regression
+<p align="center">
+  <img src="plots/Lasso.png" height="400">
+</p>
 
